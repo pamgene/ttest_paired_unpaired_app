@@ -342,7 +342,7 @@
        {
         "kind": "PropertyValue",
         "name": "paired",
-        "value": "false"
+        "value": "true"
        },
        {
         "kind": "PropertyValue",
@@ -357,7 +357,7 @@
        {
         "kind": "PropertyValue",
         "name": "var.equal",
-        "value": "false"
+        "value": "true"
        },
        {
         "kind": "PropertyValue",
@@ -367,12 +367,12 @@
        {
         "kind": "PropertyValue",
         "name": "detailed",
-        "value": "false"
+        "value": "true"
        },
        {
         "kind": "PropertyValue",
         "name": "reference_index",
-        "value": "0"
+        "value": "2"
        }
       ],
       "url": {
@@ -2503,8 +2503,8 @@
  ],
  "offset": {
   "kind": "Point",
-  "x": 333.0,
-  "y": 239.0
+  "x": 327.0,
+  "y": 281.0
  },
  "scale": 1.0
 }
